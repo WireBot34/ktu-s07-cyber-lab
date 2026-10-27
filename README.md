@@ -15,7 +15,7 @@ This repository contains lab experiments for **Ethical Hacking**.
 
 ## List of Experiments
 
-| No. | Experiment | Tool(s) Used | Aim | How to | Record |
+| No. | Experiment | Tool(s) Used | Aim | Procedure | Record |
 |-----|-----------|--------------|-----|--------|--------|
 | 01 | Recon-ng | `recon-ng` | Perform passive & active OSINT footprinting on a target domain | [View](./exp01_recon-ng) | [View](./exp01_recon-ng/record.log) |
 | 02 | Maltego | `Maltego` | Build entity relationship graphs using free transforms | [View](./exp02_maltego) | [View](./exp02_maltego/record.log) |
