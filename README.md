@@ -16,14 +16,14 @@ This repository contains lab experiments for **Ethical Hacking**.
 ## List of Experiments
 
 | No. | Experiment | Tool(s) Used | Aim | Procedure | Record |
-|-----|-----------|--------------|-----|--------|--------|
-| 01 | Recon-ng | `recon-ng` | Perform passive & active OSINT footprinting on a target domain | [View](./exp01_recon-ng) | [View](./exp01_recon-ng/record.log) |
-| 02 | Maltego | `Maltego` | Build entity relationship graphs using free transforms | [View](./exp02_maltego) | [View](./exp02_maltego/record.log) |
-| 03 | Burp Suite - Theory | `Burp Suite` | Understand Burp Suite architecture & module mapping to pentest phases | [View](./exp03_burp_theory) | [View](./exp03_burp_theory/record.log) |
-| 04 | Authentication & Authorisation | `Burp Suite` | Test login logic, session tokens, and privilege escalation | [View](./exp04_auth_testing) | [View](./exp04_auth_testing/record.log) |
-| 05 | Client-Side Testing | `Burp Suite` | Detect & demonstrate XSS (reflected, stored, DOM-based) | [View](./exp05_client_side) | [View](./exp05_client_side/record.log) |
-| 06 | SQL Injection | `Burp Suite`, `sqlmap` | Identify & exploit SQLi vectors in web forms | [View](./exp06_sql_injection) | [View](./exp06_sql_injection/record.log) |
-| 07 | Harvester | `theHarvester` | Harvest emails, subdomains, IPs from public sources | [View](./exp07_harvester) | [View](./exp07_harvester/record.log) |
-| 08 | Hydra | `Hydra` | Perform online brute-force / dictionary attacks on lab services | [View](./exp08_hydra) | [View](./exp08_hydra/record.log) |   
+|-----|-----------|--------------|-----|-----------|--------|
+| 01 | Recon-ng | `recon-ng` | Perform passive and active OSINT footprinting on an authorized target domain | [View](./Recon-ng/procedure.md) | [View](./Recon-ng/01-recon-ng.md) |
+| 02 | Maltego | `Maltego` | Build entity relationship graphs using available transforms | [View](./Maltigo/procedure.md) | [View](./Maltigo/02-maltego.md) |
+| 03 | Burp Suite – Theory | `Burp Suite` | Understand Burp Suite architecture and its modules in penetration testing | [View](./Burp-Suit/procedure.md) | [View](./Burp-Suit/03-burp-suite-theory.md) |
+| 04 | Authentication & Authorization | `Burp Suite` | Examine login logic, session management, and access controls | [View](./Authentication-and-authorization/procedure.md) | [View](./Authentication-and-authorization/04-authentication-authorization.md) |
+| 05 | Client-Side Testing | `Burp Suite` | Examine client-side validation and test for XSS in an authorized lab | [View](./Client-side-testing/procedure.md) | [View](./Client-side-testing/05-client-side-testing.md) |
+| 06 | SQL Injection | `Burp Suite`, `sqlmap` | Identify and test SQL injection vulnerabilities in a controlled lab | [View](./SQL-injection/procedure.md) | [View](./SQL-injection/06-sql-injection.md) |
+| 07 | theHarvester | `theHarvester` | Collect publicly available emails, subdomains, and related information | [View](./Harvester/procedure.md) | [View](./Harvester/07-theharvester.md) |
+| 08 | Hydra | `Hydra` | Study password-auditing techniques against authorized lab services | [View](./Hydra/procedure.md) | [View](./Hydra/08-hydra.md) |  
 
 --- 
